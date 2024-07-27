@@ -139,6 +139,10 @@
         gap: 12px;
     }
 
+    img.star-d-none{
+        display: none;
+    }
+
     .trust-description {
         display: flex;
         align-items: center;
