@@ -7,6 +7,10 @@
         top: -14px;
     }
 
+    .ribbon {
+        top: -27px !important;
+    }
+
     p.ratettl {
         font-size: 11px !important;
     }
